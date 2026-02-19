@@ -1,1 +1,1 @@
-# https://github.com/MnD35/devtest.github.io/raw/refs/heads/main/DevTest/assets/github-io-devtest-v3.9-alpha.2.zip
+# https://raw.githubusercontent.com/MnD35/devtest.github.io/main/docs/github-io-devtest-v2.6.zip
